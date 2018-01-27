@@ -12,7 +12,7 @@ Using Termux, Via Android:
 ~ pip2 install requests
 ~ pip2 install rsa
 ~ pip2 install thrift==0.9.3
-~ git clone https://github.com/Gwenkim/ExoSB
+~ git clone https://github.com/JisooGwenkim/ExoSB
 Clear
 
 Using GNURoot Debian, Via Android:
@@ -22,14 +22,14 @@ Using GNURoot Debian, Via Android:
 ~ pip2 install requests
 ~ pip2 install rsa
 ~ pip2 install thrift==0.9.3
-~ git clone https://github.com/Gwenkim/ExoSB
+~ git clone https://github.com/JisooGwenkim/ExoSB
 Clear
 
 Using VPS:
 ~ sudo pip install rsa
 ~ sudo pip install requests
 ~ sudo pip install thrift==0.9.3
-~ git clone https://github.com/Gwenkim/ExoSB
+~ git clone https://github.com/JisooGwenkim/ExoSB
 Clear
 
 
