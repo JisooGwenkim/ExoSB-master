@@ -1,7 +1,7 @@
 # ExoSB-master
 
 
-Jisoo Gwenkim
+Jisoo Gwenkim -- --- --- 
 Steps to install ExoSelfBot.
 You can install ExoSelfbot in many ways.
 
@@ -13,7 +13,7 @@ Using Termux, Via Android:
 - pip2 install rsa
 - pip2 install thrift==0.9.3
 - git clone https://github.com/JisooGwenkim/ExoSB
-Clear
+-Clear
 
 Using GNURoot Debian, Via Android:
 - Install GNURoot Debian Application
@@ -23,14 +23,14 @@ Using GNURoot Debian, Via Android:
 - pip2 install rsa
 - pip2 install thrift==0.9.3
 - git clone https://github.com/JisooGwenkim/ExoSB
-Clear
+- Clear
 
 Using VPS:
 - sudo pip install rsa
 - sudo pip install requests
 - sudo pip install thrift==0.9.3
 - git clone https://github.com/JisooGwenkim/ExoSB
-Clear
+- Clear
 
 
 Steps to edit script.
