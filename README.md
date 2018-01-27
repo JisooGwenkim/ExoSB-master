@@ -1,7 +1,7 @@
 # ExoSB-master
-# JisooGwenkim
 
 
+- Jisoo Gwenkim -
 Steps to install ExoSelfBot.
 You can install ExoSelfbot in many ways.
 
